@@ -1,7 +1,7 @@
 ```mermaid
 graph LR
-    A[Ch.1: Triple Dissonance<br/>Paper 2] --> B[Ch.2: Power Cube + Spiral<br/>Paper 3]
-    B --> C[Ch.3: DFIs + 5Rs<br/>Paper 1]
+    A[Paper 1: Triple Dissonance] --> B[Paper 1: Power Cube + Spiral]
+    B --> C[Paper 1: DFIs + 5Rs]
     
     subgraph POWER_CUBE
         V1[Visible<br/>Male dominance]
@@ -13,5 +13,5 @@ graph LR
     B -.->|Analyzes via| POWER_CUBE
     C -.->|Redistributes via| POWER_CUBE
     
-    C --> D[GLI Scale Achieved<br/>Recursive Power Redistribution]
+    C --> D[GLI Scaling via Recursive Power Redistribution]
 ```
